@@ -1,0 +1,45 @@
+:root{
+    --color-blue:#1bbca3;
+}
+.color{
+    background-color: var(--color-blue);
+}
+.btn-item{
+    background-color: #1bbca3;
+    color: white;
+}
+.carousel-img{
+    filter: brightness(0.5);
+}
+.about-item{
+    display: flex;
+}
+.a-icon{
+    color: #1bbca3;
+}
+.question-section{
+    background-color: #ebf1fa;
+}
+.accordin-color{
+    color: #1bbca3;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.icon{
+
+    outline:white ;
+    outline-style: solid;
+     border-radius: 50px 50px;
+    padding: 5px; 
+}
+.contact-content{
+    background-color: #e8e9eb;
+   
+
+}
+.contact-icon{
+    color: #1bbca3;
+    font-size: 50px;
+}
